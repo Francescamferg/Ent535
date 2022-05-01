@@ -1,7 +1,6 @@
 Compounds,Percent_Samples_above_LOD,Percent_Samples_above_LOQ,Average_µgL_above_LOD,Average_µgL_above_LOQ,Min_µg/L,Max_µg/L,Sample_Type
 Acetaminophen,82.1,58.3,6.32,8.74,0.10,71.70,POCIS
 Caffeine,83.3,67.9,11.45,13.54,0.30,44.20,POCIS
-Benzophenone_3,19,8.3,2.98,5.14,0.00,11.80,POCIS
 Atrazine,96.4,92.9,105.66,110.95,0.00,1070.50,POCIS
 Carbamazepine_A,57.1,54.8,636.54,664.16,0.00,1445.20,POCIS
 DEET,100,100,0.58,0.58,0.10,2.40,POCIS
@@ -14,11 +13,8 @@ Ofloxacin,21.4,15.5,5.22,5.87,0.00,23.90,POCIS
 Simazine,83.3,67.9,737.58,896.74,0.10,1394.30,POCIS
 Tetracycline,1.2,1.2,5.60,0.00,0.40,5.60,POCIS
 Theobromine,95.2,89.3,7.96,8.51,0.00,34.30,POCIS
-Thiamethoxam,1.2,1.2,828.70,0.00,0.00,828.70,POCIS
-Trimethoprim,46.4,26.2,4.91,7.68,0.00,17.00,POCIS
 Acetaminophen,23,11,0.00,0.01,0.00,0.03,Grab
 Caffeine,83,62,0.01,0.01,0.00,0.11,Grab
-Benzophenone_3,76,25,0.00,0.00,0.00,0.00,Grab
 Atrazine,77,77,0.01,0.01,0.00,0.08,Grab
 Carbamazepine_A,20,15,0.00,0.00,0.00,0.01,Grab
 DEET,89,88,0.00,0.00,0.00,0.01,Grab
